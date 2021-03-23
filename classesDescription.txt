@@ -1,0 +1,20 @@
+class Produto
+  - id
+  - name
+  - price
+  - brand
+  - category
+  - inventory
+
+class Category
+  - id
+  - name
+
+class Brand
+  - id
+  - name
+
+class Buy
+  - buyMethod
+
+  
